@@ -1,4 +1,4 @@
-# Posco_Big-Data
+# BigData-Analysis_Posco
 ## 1. Data Handling(Pandas, scipy 등 활용)
 다양한 라이브러리를 활용한 Data Handling
 
