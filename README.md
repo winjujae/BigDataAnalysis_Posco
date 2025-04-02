@@ -1,3 +1,5 @@
+<img width="800" alt="내용 미리보기" src="https://github.com/user-attachments/assets/c1199b14-047d-44dc-9071-652bf780ab5c" />
+
 # BigData-Analysis_Posco
 ---
 ## 1. Data Handling(Pandas, scipy 등 활용)
