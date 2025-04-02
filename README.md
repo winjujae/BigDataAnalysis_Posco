@@ -1,7 +1,7 @@
 <img width="800" alt="내용 미리보기" src="https://github.com/user-attachments/assets/c1199b14-047d-44dc-9071-652bf780ab5c" />
 
 
-자세한 프로젝트 내용 : [summary.pdf](./docs/제23기_c2조_POBA.pdf)
+자세한 프로젝트 내용 : [BigData Project_2차전지_23기 c2.pdf](./docs/제23기_c2조_POBA.pdf)
 
 # BigData-Analysis_Posco
 ---
